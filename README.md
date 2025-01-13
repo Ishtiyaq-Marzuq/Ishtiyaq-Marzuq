@@ -1,9 +1,4 @@
-# About Me:
-🚀 **Building impactful AI and data-driven solutions.**  
-💡 **Turning raw data into actionable insights.**  
-🛠️ **Crafting real-world machine learning projects.**  
-🌟 **Pushing boundaries through continuous learning.**  
-🌐 **Sharing my journey of innovation and code.**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ishtiyaq-marzuq-890611246) 
