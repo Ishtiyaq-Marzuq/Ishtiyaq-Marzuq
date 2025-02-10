@@ -20,7 +20,7 @@
 - Transformers|Hugging Face|NLTK|SpaCy
 
 ## LLMs & Generative AI:
-  -GPT(OpenAI)|LLaMA|BERT|LangChain
+  - GPT(OpenAI)|LLaMA|BERT|LangChain
 
 ##  MLOps & Deployment:
 - Streamlit
