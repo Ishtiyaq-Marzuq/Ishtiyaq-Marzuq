@@ -29,6 +29,5 @@
 - MySQL
 
 ##  Tools & Version Control:
-- GitHub
-- Jupyter Notebook
-- VS Code
+- GitHub|Jupyter Notebook|VS Code|
+
