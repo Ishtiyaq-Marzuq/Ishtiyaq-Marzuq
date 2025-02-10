@@ -24,12 +24,15 @@
 - PyTorch
 - Keras
 
-##  AI & NLP:
+##  NLP:
 - Transformers
 - Hugging Face
 - OpenAI API
 - NLTK
 - SpaCy
+
+  ## LLMs & Generative AI:
+  -GPT(OpenAI)|LLaMA|BERT|LangChain
 
 ##  MLOps & Deployment:
 - Streamlit
