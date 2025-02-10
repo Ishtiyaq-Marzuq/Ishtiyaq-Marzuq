@@ -7,12 +7,12 @@
 
 # Tech Stack
 
-## 💻 Programming & Scripting:
+##  Programming & Scripting:
 - Python 
 - SQL
 
 
-## 📊 Data Science & Analytics:
+##  Data Science & Analytics:
 - NumPy
 - Pandas
 - Matplotlib
