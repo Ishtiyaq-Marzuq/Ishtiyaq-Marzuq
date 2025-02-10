@@ -8,39 +8,25 @@
 # Tech Stack
 
 ##  Programming & Scripting:
-- Python 
-- SQL
-
+- Python|SQL
 
 ##  Data Science & Analytics:
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+- NumPy|Pandas|Matplotlib|Seaborn|
 
 ##  Machine Learning & Deep Learning:
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- Keras
+- Scikit-Learn|TensorFlow|PyTorch|Keras
 
 ##  NLP:
-- Transformers
-- Hugging Face
-- OpenAI API
-- NLTK
-- SpaCy
+- Transformers|Hugging Face|NLTK|SpaCy
 
-  ## LLMs & Generative AI:
+## LLMs & Generative AI:
   -GPT(OpenAI)|LLaMA|BERT|LangChain
 
 ##  MLOps & Deployment:
 - Streamlit
 
-
 ##  Databases
 - MySQL
-
 
 ##  Tools & Version Control:
 - GitHub
