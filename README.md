@@ -20,13 +20,13 @@
 - Transformers|Hugging Face|NLTK|SpaCy
 
 ## LLMs & Generative AI:
-  - GPT(OpenAI)|LLaMA|BERT|LangChain
+  - Mistral|LLaMA|BERT|LangChain
 
 ##  MLOps & Deployment:
 - Streamlit
 
 ##  Databases
-- MySQL
+- MySQL,Vector Database
 
 ##  Tools & Version Control:
 - GitHub|Jupyter Notebook|VS Code|
