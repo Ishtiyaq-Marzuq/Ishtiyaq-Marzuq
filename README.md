@@ -26,7 +26,7 @@
 - Streamlit
 
 ##  Databases
-- MySQL,Vector Database
+- MySQL
 
 ##  Tools & Version Control:
 - GitHub|Jupyter Notebook|VS Code|
